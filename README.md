@@ -1,6 +1,8 @@
 [README.md](https://github.com/user-attachments/files/32984971/README.md)
 # API - Sistema de Gestão de Vendas
 
+link github: https://github.com/Ulisses-correa/cliente_sistemas
+
 Atividade prática de **Desenvolvimento de APIs** (SENAI - Técnico em Informática para Internet).
 
 API REST feita com **Node.js, Express e MySQL/MariaDB**. Partindo do módulo de clientes e produtos desenvolvido em aula, expandi o sistema com os módulos de **usuários**, **pedidos** e **itens do pedido**, mantendo a arquitetura modular com `express.Router()`.
